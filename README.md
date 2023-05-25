@@ -12,4 +12,4 @@ Check you weather for free! A  small project made by Vikas Wakde
 - you are free to fork and contribute and make this better, 
 -  I made this to brush up my skills, 
 -  you can too! 
--  Improve it and share with me on <a href="https://twitter.com/vikaswakdeos/>Twitter</a>
+-  Improve it and share with me on <a href="https://www.twitter.com/vikaswakdeos">Twitter</a>
